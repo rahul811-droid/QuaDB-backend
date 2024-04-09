@@ -1,0 +1,4 @@
+{"level":"info","message":"/api/users/delete/66125d0083190b6391a2fa82- {}}","service":"request-logging"}
+{"level":"info","message":"/delete/66125d0083190b6391a2fa82- {}}","service":"request-logging"}
+{"level":"info","message":"/api/users/insert- {\"user_name\":\"Aman Doe\",\"user_email\":\"Aman@example.com\",\"user_password\":\"password12435\",\"user_image\":\"profiile.jpg1\",\"total_orders\":9}}","service":"request-logging"}
+{"level":"info","message":"/insert- {\"user_name\":\"Aman Doe\",\"user_email\":\"Aman@example.com\",\"user_password\":\"password12435\",\"user_image\":\"profiile.jpg1\",\"total_orders\":9}}","service":"request-logging"}
